@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/bus.jpg
+cover: <a href='https://www.freepik.com/vectors/background'>Background vector created by coolvector - www.freepik.com</a>
 navigation: True
 title: Gettysburg Address
 date: 1863-11-19 10:18:00
